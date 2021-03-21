@@ -1,0 +1,13 @@
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\bin\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.exe
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\bin\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.deps.json
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\bin\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.runtimeconfig.json
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\bin\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.runtimeconfig.dev.json
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\bin\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.dll
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\bin\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.pdb
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.csprojAssemblyReference.cache
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.AssemblyInfoInputs.cache
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.AssemblyInfo.cs
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.dll
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.pdb
+C:\Users\davin\source\repos\ExemploMetodosDeExtensao\ExemploMetodosDeExtensao\obj\Debug\netcoreapp3.1\ExemploMetodosDeExtensao.genruntimeconfig.cache
